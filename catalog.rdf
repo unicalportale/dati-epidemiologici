@@ -48,7 +48,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="w3B0w07c7LLkRyZ">
+      <dcatapit:Agent rdf:nodeID="P0o0eVkaQPtrm3U">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -90,7 +90,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="nHkbqPMpeojueMZ">
+      <dcatapit:Agent rdf:nodeID="SvBhfH2An2K8Q0L">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -128,7 +128,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="XYEKCPwpdNxFi6R">
+      <dcatapit:Agent rdf:nodeID="yIwvAS8U9ylvCfO">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -170,7 +170,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="tz17tHc4rgu4rhB">
+      <dcatapit:Agent rdf:nodeID="iTLpjGmV9cOiLcp">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -324,7 +324,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
   <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv11">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/influenza-stagionale/data-aggregated/epidemiological-data/timeseries-virological-cases.csv"/>
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/influenza-stagionale/data-aggregated/virological-data/timeseries-virological-cases.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
