@@ -48,7 +48,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="6OfKcIU83EjxTi6">
+      <dcatapit:Agent rdf:nodeID="Lbaej77ry2KZvjX">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -90,7 +90,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="zmbG7BAwDdPDQ6w">
+      <dcatapit:Agent rdf:nodeID="0DuJ8pxOxNNyUMD">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -100,7 +100,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-27</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-26</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>influenza</dcat:keyword>
@@ -128,7 +128,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="EEd1YesNvbXNYap">
+      <dcatapit:Agent rdf:nodeID="OJ7NO5AGIP3eqoX">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -170,7 +170,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="4OX2CJheVkPmXQA">
+      <dcatapit:Agent rdf:nodeID="CDI9RiHHTIhXApT">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -180,7 +180,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-27</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-08-04</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>vaiolo delle scimmie</dcat:keyword>
