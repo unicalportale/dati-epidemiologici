@@ -29,6 +29,7 @@
   <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale"/>
   <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile"/>
   <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie"/>
+  <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19"/>
   </dcatapit:Catalog>
   <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/epatite-di-origine-sconosciuta-nei-bambini">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
@@ -48,7 +49,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="Lbaej77ry2KZvjX">
+      <dcatapit:Agent rdf:nodeID="osbf6xDnWmgiGQ5">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -90,7 +91,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="0DuJ8pxOxNNyUMD">
+      <dcatapit:Agent rdf:nodeID="WCASkWnSefTXlod">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -100,7 +101,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-03</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-10</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-26</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>influenza</dcat:keyword>
@@ -128,7 +129,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="OJ7NO5AGIP3eqoX">
+      <dcatapit:Agent rdf:nodeID="PNt2J6Bvg1orZjf">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -170,7 +171,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="CDI9RiHHTIhXApT">
+      <dcatapit:Agent rdf:nodeID="341tod9HasKbZ3O">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -180,7 +181,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-03</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-10</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-08-04</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>vaiolo delle scimmie</dcat:keyword>
@@ -196,6 +197,47 @@
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv26"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv27"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv28"/>
+  </dcatapit:Dataset>
+  <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+    <dct:license/>
+    <dct:title>COVID-19</dct:title>
+    <dct:landingpage>https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19</dct:landingpage>
+    <dct:description>Sono riportati i dati relativi alla Regione Calabria, estratti dal riepilogo regionale quotidiano del monitoraggio sanitario reso disponibile sul sito https://www.regione.calabria.it/website/. I dati descrivono il quadro riepilogativo della situazione relativo alla stato di evoluzione dell'infezione da Coronavirus (COVID-19) e contengono informazioni relative ai seguenti attributi: nuovi casi positivi, deceduti, dimessi guariti, ricoverati con sintomi, terapia intensiva.</dct:description>
+    <dct:identifier>unical:covid-19</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
+    <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="unical">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>unical</dct:identifier>
+        <foaf:name>Università della Calabria</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="owYC37zCKuLcKum">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>unical</dct:identifier>
+        <foaf:name>Dipartimento di Ingegneria Informatica, Modellistica, Elettronica e Sistemistica</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-10</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-10</dct:issued>
+    <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
+    <dcat:keyword>covid-19</dcat:keyword>
+    <dcat:keyword>salute pubblica</dcat:keyword>
+    <dcat:keyword>sorveglianza epidemiologica</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv29"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv30"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv31"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv32"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv33"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv34"/>
   </dcatapit:Dataset>
   <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/epatite-di-origine-sconosciuta-nei-bambini/csv2">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/epatite-di-origine-sconosciuta-nei-bambini/ECDC-WHO/age-cases.csv"/>
@@ -575,6 +617,96 @@
     <dct:title>italian regional cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv29">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-regione-calabria.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>COVID-19 cases in Calabria</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv30">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-catanzaro.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>COVID-19 cases in Catanzaro</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv31">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-cosenza.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>COVID-19 cases in Cosenza</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv32">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-crotone.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>COVID-19 cases in Crotone</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv33">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-reggiocalabria.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>COVID-19 cases in Reggio Calabria</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv34">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-vibovalentia.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>COVID-19 cases in Vibo Valentia</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
+    <skos:prefLabel>Salute</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://eurovoc.europa.eu/100215">
+    <skos:prefLabel xml:lang="it">2841 salute</skos:prefLabel>
+  </skos:Concept>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL">
     <skos:prefLabel>Salute</skos:prefLabel>
   </skos:Concept>
