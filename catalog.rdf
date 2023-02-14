@@ -29,7 +29,7 @@
   <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale"/>
   <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile"/>
   <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie"/>
-  <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19"/>
+  <dcat:dataset rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-"/>
   </dcatapit:Catalog>
   <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/epatite-di-origine-sconosciuta-nei-bambini">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
@@ -49,7 +49,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="osbf6xDnWmgiGQ5">
+      <dcatapit:Agent rdf:nodeID="jqH0aTfe7pjBb2L">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -91,7 +91,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="WCASkWnSefTXlod">
+      <dcatapit:Agent rdf:nodeID="jWWuZXLM2iqKaAM">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -129,7 +129,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="PNt2J6Bvg1orZjf">
+      <dcatapit:Agent rdf:nodeID="XFmzMHz0A7eG9WM">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -171,7 +171,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="341tod9HasKbZ3O">
+      <dcatapit:Agent rdf:nodeID="8hQQtaetAdDKA9K">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -198,14 +198,14 @@
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv27"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv28"/>
   </dcatapit:Dataset>
-  <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19">
+  <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
-    <dct:title>COVID-19</dct:title>
-    <dct:landingpage>https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19</dct:landingpage>
+    <dct:title>Emergenza COVID19 - Regione Calabria</dct:title>
+    <dct:landingpage>https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-</dct:landingpage>
     <dct:description>Sono riportati i dati relativi alla Regione Calabria, estratti dal riepilogo regionale quotidiano del monitoraggio sanitario reso disponibile sul sito https://www.regione.calabria.it/website/. I dati descrivono il quadro riepilogativo della situazione relativo alla stato di evoluzione dell'infezione da Coronavirus (COVID-19) e contengono informazioni relative ai seguenti attributi: nuovi casi positivi, deceduti, dimessi guariti, ricoverati con sintomi, terapia intensiva.</dct:description>
-    <dct:identifier>unical:covid-19</dct:identifier>
+    <dct:identifier>unical:emergenza-covid19---regione-calabria-</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dct:rightsHolder>
@@ -216,7 +216,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="owYC37zCKuLcKum">
+      <dcatapit:Agent rdf:nodeID="XFSFlytyw0K3NJQ">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -232,12 +232,12 @@
     <dcat:keyword>covid-19</dcat:keyword>
     <dcat:keyword>salute pubblica</dcat:keyword>
     <dcat:keyword>sorveglianza epidemiologica</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv29"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv30"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv31"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv32"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv33"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv34"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv29"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv30"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv31"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv32"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv33"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv34"/>
   </dcatapit:Dataset>
   <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/epatite-di-origine-sconosciuta-nei-bambini/csv2">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/epatite-di-origine-sconosciuta-nei-bambini/ECDC-WHO/age-cases.csv"/>
@@ -617,7 +617,7 @@
     <dct:title>italian regional cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv29">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv29">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-regione-calabria.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -631,7 +631,7 @@
     <dct:title>COVID-19 cases in Calabria</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv30">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv30">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-catanzaro.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -645,7 +645,7 @@
     <dct:title>COVID-19 cases in Catanzaro</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv31">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv31">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-cosenza.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -659,7 +659,7 @@
     <dct:title>COVID-19 cases in Cosenza</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv32">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv32">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-crotone.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -673,7 +673,7 @@
     <dct:title>COVID-19 cases in Crotone</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv33">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv33">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-reggiocalabria.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -687,7 +687,7 @@
     <dct:title>COVID-19 cases in Reggio Calabria</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/covid-19/csv34">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv34">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-vibovalentia.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
