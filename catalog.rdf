@@ -49,7 +49,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="m0xq8DXXIAJddPSOOsx51OA8u2YHOs3Qz">
+      <dcatapit:Agent rdf:nodeID="WCKa5eJxTgNrUyjodt3l3TwgTRUyNpbsV">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -91,7 +91,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="xL9lYdVOnSSgNROYqcJMZqAOK5wiKf1DT">
+      <dcatapit:Agent rdf:nodeID="MKJgjIFFxdnp4JLY1RfXwn3RIV6mSUzBp">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -101,7 +101,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-24</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-26</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>influenza</dcat:keyword>
@@ -110,6 +110,8 @@
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv9"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv10"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv11"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv12"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv13"/>
   </dcatapit:Dataset>
   <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
@@ -129,7 +131,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="wE1zhpRvG9zJYznn0rPGeNQMI3miSMSuj">
+      <dcatapit:Agent rdf:nodeID="Mea8FmWgG1GQV3RZEp1H0BOB5Ca6pfqgV">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -145,13 +147,13 @@
     <dcat:keyword>west-nile</dcat:keyword>
     <dcat:keyword>salute pubblica</dcat:keyword>
     <dcat:keyword>sorveglianza epidemiologica</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv12"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv13"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv14"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv15"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv16"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv17"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv18"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv19"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv20"/>
   </dcatapit:Dataset>
   <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
@@ -171,7 +173,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="0DnuthGzLhuOifqehCvJrM3Oj4aXBlU9X">
+      <dcatapit:Agent rdf:nodeID="H8elJ7IUr0L71WTuiNyUdKXUJOTlehii4">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -181,14 +183,12 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-24</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-08-04</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>vaiolo delle scimmie</dcat:keyword>
     <dcat:keyword>salute pubblica</dcat:keyword>
     <dcat:keyword>sorveglianza epidemiologica</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv19"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv20"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv21"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv22"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv23"/>
@@ -197,6 +197,8 @@
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv26"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv27"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv28"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv29"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv30"/>
   </dcatapit:Dataset>
   <dcatapit:Dataset rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
@@ -216,7 +218,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="m7TwlOtUPOYNcr40CnsQXI3hswxq0cQQi">
+      <dcatapit:Agent rdf:nodeID="PtG7IowIdEz4NJY7SrxUFRuGNchXvJaCb">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -226,18 +228,18 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-24</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-10</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>covid-19</dcat:keyword>
     <dcat:keyword>salute pubblica</dcat:keyword>
     <dcat:keyword>sorveglianza epidemiologica</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv29"/>
-    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv30"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv31"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv32"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv33"/>
     <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv34"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv35"/>
+    <dcat:distribution rdf:resource="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv36"/>
   </dcatapit:Dataset>
   <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/epatite-di-origine-sconosciuta-nei-bambini/csv2">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/epatite-di-origine-sconosciuta-nei-bambini/ECDC-WHO/age-cases.csv"/>
@@ -379,7 +381,35 @@
     <dct:title>virological cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv12">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv12">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/influenza-stagionale/data-aggregated/vaccination-data/timeseries-national-vaccinations.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>national vaccinations</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/influenza-stagionale/csv13">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/influenza-stagionale/data-aggregated/vaccination-data/timeseries-regional-vaccinations.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>regional vaccinations</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv14">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/west-nile/dati-aggregati/dati-andamento-nazionale/wn-ita-andamento-nazionale.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -393,7 +423,7 @@
     <dct:title>national cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv13">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv15">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/west-nile/dati-aggregati/dati-sorveglianza-entomologica/wn-ita-sorveglianza-entomologica.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -407,7 +437,7 @@
     <dct:title>entomological surveillance data</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv14">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv16">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/west-nile/dati-aggregati/dati-sorveglianza-equidi/wn-ita-sorveglianza-equidi.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -421,7 +451,7 @@
     <dct:title>equine surveillance data</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv15">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv17">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/west-nile/dati-aggregati/dati-sorveglianza-uccelli/dati-sorveglianza-uccelli-bersaglio/wn-ita-sorveglianza-uccelli-bersaglio.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -435,7 +465,7 @@
     <dct:title>target bird surveillance data</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv16">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv18">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/west-nile/dati-aggregati/dati-sorveglianza-uccelli/dati-sorveglianza-uccelli-selvatici/wn-ita-sorveglianza-uccelli-selvatici.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -449,7 +479,7 @@
     <dct:title>wild bird surveillance data</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv17">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv19">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/west-nile/dati-aggregati/dati-sorveglianza-umana/wn-ita-regioni-sorveglianza-umana.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -463,7 +493,7 @@
     <dct:title>regional human surveillance data</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv18">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/west-nile/csv20">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/west-nile/dati-aggregati/dati-sorveglianza-umana/wn-ita-province-sorveglianza-umana.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -477,7 +507,7 @@
     <dct:title>provincial human surveillance data</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv19">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv21">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/age-sex-cases.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -491,7 +521,7 @@
     <dct:title>age and gender cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv20">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv22">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/data-summary-outcome.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -505,7 +535,7 @@
     <dct:title>outcome and HIV status cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv21">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv23">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/data-summary.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -519,7 +549,7 @@
     <dct:title>country cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv22">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv24">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/epicurve-by-notification-date.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -533,7 +563,7 @@
     <dct:title>overall cases by date of notification</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv23">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv25">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/epicurve-by-typedate.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -547,7 +577,7 @@
     <dct:title>overall cases by date of symptom onset</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv24">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv26">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/microbiological-analysis.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -561,7 +591,7 @@
     <dct:title>microbiological analysis cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv25">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv27">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/sexual-orientation.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -575,7 +605,7 @@
     <dct:title>sexual orientation cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv26">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv28">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/ECDC-WHO/symptoms.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -589,7 +619,7 @@
     <dct:title>symptoms cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv27">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv29">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/Italy/mpox-italy.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -603,7 +633,7 @@
     <dct:title>italian national cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv28">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/vaiolo-delle-scimmie/csv30">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/vaiolo-delle-scimmie/Italy/mpox-region.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -617,7 +647,7 @@
     <dct:title>italian regional cases</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv29">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv31">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-regione-calabria.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -631,7 +661,7 @@
     <dct:title>COVID-19 cases in Calabria</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv30">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv32">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-catanzaro.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -645,7 +675,7 @@
     <dct:title>COVID-19 cases in Catanzaro</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv31">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv33">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-cosenza.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -659,7 +689,7 @@
     <dct:title>COVID-19 cases in Cosenza</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv32">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv34">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-crotone.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -673,7 +703,7 @@
     <dct:title>COVID-19 cases in Crotone</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv33">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv35">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-reggiocalabria.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
@@ -687,7 +717,7 @@
     <dct:title>COVID-19 cases in Reggio Calabria</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv34">
+  <dcatapit:Distribution rdf:about="https://github.com/unicalportale/dati-epidemiologici/tree/main/emergenza-covid19---regione-calabria-/csv36">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicalportale/dati-epidemiologici/main/COVID-19/covid19-provincia-vibovalentia.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
