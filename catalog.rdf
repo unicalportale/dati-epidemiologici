@@ -49,7 +49,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="WCKa5eJxTgNrUyjodt3l3TwgTRUyNpbsV">
+      <dcatapit:Agent rdf:nodeID="jFTpgkD4jAOEiNy0AoTPmag4gxymrvsQg">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -91,7 +91,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="MKJgjIFFxdnp4JLY1RfXwn3RIV6mSUzBp">
+      <dcatapit:Agent rdf:nodeID="NPDTqhO3Hkc2fQkWQfdC0fJG4dFcjRbhC">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -101,7 +101,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-03</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-10</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-26</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>influenza</dcat:keyword>
@@ -131,7 +131,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="Mea8FmWgG1GQV3RZEp1H0BOB5Ca6pfqgV">
+      <dcatapit:Agent rdf:nodeID="zrpzfeVxlWvy3cGtWxbyYS2kydI87KGpu">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -173,7 +173,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="H8elJ7IUr0L71WTuiNyUdKXUJOTlehii4">
+      <dcatapit:Agent rdf:nodeID="oXTDmdbX1qUx33qbdpLGn32D5WwniW8mp">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -183,7 +183,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-03</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-10</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-08-04</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>vaiolo delle scimmie</dcat:keyword>
@@ -218,7 +218,7 @@
       </dcatapit:Agent>
     </dct:rightsHolder>
     <dct:publisher>
-      <dcatapit:Agent rdf:nodeID="PtG7IowIdEz4NJY7SrxUFRuGNchXvJaCb">
+      <dcatapit:Agent rdf:nodeID="Hc8MtzARfXc5lv7GEVqZyR3pyyt1iFcdt">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
         <dct:identifier>unical</dct:identifier>
@@ -228,7 +228,7 @@
     <dct:subject rdf:resource="http://eurovoc.europa.eu/100215"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-03</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-10</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-03-10</dct:issued>
     <dcat:contactPoint rdf:resource="https://dimes.unical.it/"/>
     <dcat:keyword>covid-19</dcat:keyword>
