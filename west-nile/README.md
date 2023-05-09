@@ -33,8 +33,7 @@ west-nile/
 │   ├── dati-andamento-nazionale/
 │   │   ├── wn-ita-andamento-nazionale-*.csv
 │   ├── dati-sorveglianza-umana/
-│   │   ├── wn-ita-province-sorveglianza-umana-*.csv
-│   │   ├── wn-ita-regioni-sorveglianza-umana-*.csv
+│   │   ├── wn-ita-sorveglianza-umana-*.csv
 │   ├── dati-sorveglianza-entomologica/
 │   │   ├── wn-ita-sorveglianza-entomologica-*.csv
 │   ├── dati-sorveglianza-equidi/
